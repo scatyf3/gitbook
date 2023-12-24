@@ -17,3 +17,5 @@
 * [概要设计](gai-yao-she-ji.md)
 * [问题定义和软件需求](wen-ti-ding-yi-he-ruan-jian-xu-qiu.md)
 * [软件概念](ruan-jian-gai-nian.md)
+* [演化式设计](yan-hua-shi-she-ji.md)
+* [软件的设计方法](ruan-jian-de-she-ji-fang-fa.md)
