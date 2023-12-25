@@ -19,3 +19,7 @@
 * [软件概念](ruan-jian-gai-nian.md)
 * [演化式设计](yan-hua-shi-she-ji.md)
 * [软件的设计方法](ruan-jian-de-she-ji-fang-fa.md)
+* [软件测试](ruan-jian-ce-shi.md)
+* [软件复用](ruan-jian-fu-yong.md)
+* [敏捷开发](min-jie-kai-fa.md)
+* [（计划驱动的？）软件开发模型](ji-hua-qu-dong-de-ruan-jian-kai-fa-mo-xing.md)
